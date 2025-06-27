@@ -38,6 +38,7 @@ Clone the repository and install dependencies:
 git clone https://github.com/ParampreetSingh97/NCD_ISMIR_2025.git
 cd <ParampreetSingh97/NCD_ISMIR_2025/>
 pip install -r requirements.txt
+```
 
 ## Requirements
 
@@ -47,11 +48,12 @@ Clone it with:
 
 ```bash
 git clone https://github.com/ParampreetSingh97/PIM_v1_XAI.git Pim_XAI
+```
 ---
+
 ## Datasets
 
 We use the publicly available Saraga and PIM datasets available at: .
-
 
 ---
 ## Citation
